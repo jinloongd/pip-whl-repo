@@ -1,3 +1,1 @@
 **/*.tar.gz filter=lfs diff=lfs merge=lfs -text
-linux/release/python3.14/bin/python3.14t filter=lfs diff=lfs merge=lfs -text
-linux/release/python3.14/lib/libpython3.14t.so.1.0 filter=lfs diff=lfs merge=lfs -text
