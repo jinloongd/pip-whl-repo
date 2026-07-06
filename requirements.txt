@@ -7,3 +7,4 @@ python-dotenv
 loguru
 pyyaml
 Jinja2
+pdfplumber
