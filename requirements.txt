@@ -1,2 +1,9 @@
 requests
 pycryptodome
+aiohttp
+aiohttp_socks
+apscheduler
+python-dotenv
+loguru
+pyyaml
+Jinja2
